@@ -2,13 +2,13 @@
 
 ### 阿里云短信费用
 
-![tencent_sms](./DOC/IMG_2.png)
+![tencent_sms](https://github.com/freelifer/gosms/blob/main/doc/img_2.png?raw=true)
 
 ### 腾讯云短信费用
 
-![tencent_sms](./DOC/IMG.png)
+![tencent_sms](https://github.com/freelifer/gosms/blob/main/doc/img.png?raw=true)
 
-![tencent_sms](./DOC/IMG_1.png)
+![tencent_sms](https://github.com/freelifer/gosms/blob/main/doc/img_1.png?raw=true)
 
 ### 使用
 
